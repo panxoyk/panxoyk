@@ -5,7 +5,7 @@ Civil Telematics Engineering student
 ------------------------------------
 
 * 🌍  Based in Santiago, Chile.
-* 🧠  Learning full stack web development in my free time
+* 🧠  Learning full stack web development in my free time.
 * ✉️  You can contact me at [francisco.cstllhrnndz@gmail.com](mailto:francisco.cstllhrnndz@gmail.com)
 
 ### Skills
