@@ -1,13 +1,13 @@
-Hi 👋 My name is Francisco Castillo
+Hi 👋 I'm Francisco Castillo
 ===================================
 
 Civil Telematics Engineering student
 ------------------------------------
 
-* 🌍  I'm based in Santiago, Chile.
+* 🌍  Based in Santiago, Chile.
+* 🧠  Learning full stack web development in my free time
+* ⚽  Love playing fútbol
 * ✉️  You can contact me at [francisco.cstllhrnndz@gmail.com](mailto:francisco.cstllhrnndz@gmail.com)
-* 🧠  I'm learning full stack web development
-* ⚽  I love playing football
 
 ### Skills
 
