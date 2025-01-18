@@ -1,6 +1,6 @@
 <h2>Desarrollador web full-stack</h2>
 
-- 🌱 Soy estudiante de **Ingeniería civil Telemática.**
+- 👨‍🎓 Estudiante de **Ingeniería civil Telemática** en Universidad Técnica Federico Santa María, Chile.
 
 - 📫 Puedes contactarme al email **francisco.cstllhrnndz@gmail.com**
 
