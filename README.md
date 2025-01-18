@@ -1,4 +1,4 @@
-<h3 align="center">Full stack web developer</h3>
+<h3>Full stack web developer</h3>
 
 - 🌱 I’m a student of **civil telematic engineering.**
 
