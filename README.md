@@ -1,7 +1,7 @@
 Hi 👋 I'm Francisco Castillo
 ===================================
 
-Civil Telematics Engineering student
+Civil Telematics Engineering Student
 ------------------------------------
 
 * 🌍  Based in Santiago, Chile.
