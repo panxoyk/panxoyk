@@ -4,7 +4,7 @@
 
 - 💻 Diseño y desarrollo aplicaciones web/móviles que resuelven necesidades reales, como gestionar datos, automatizar tareas y optimizar la interacción con usuarios.
 
-- 📫 Puedes contactarme vía e-mail **francisco.cstllhrnndz@gmail.com**
+- 📫 Contáctame: **francisco.cstllhrnndz@gmail.com**
 
 <h3 align="left">Redes sociales:</h3>
 <p align="left">
