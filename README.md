@@ -2,7 +2,7 @@
 
 - 👨🏻‍🎓 Estudiante de **Ingeniería civil Telemática** en Universidad Técnica Federico Santa María, Chile.
 
-- 💻 Diseño y desarrollo aplicaciones web/móviles que resuelven necesidades reales, como gestionar datos, automatizar tareas y optimizar la interacción con usuarios.
+- 💻 Diseño y desarrollo **aplicaciones web/móviles** que resuelven necesidades reales, como gestionar datos, automatizar tareas y optimizar la interacción con usuarios.
 
 - 📫 Contáctame: **francisco.cstllhrnndz@gmail.com**
 
